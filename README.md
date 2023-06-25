@@ -1,5 +1,5 @@
 # Portfolio
-## Portfolio for my coding projects
+### Portfolio for my coding projects
 
 # Project2: Interest calculator:
 
@@ -19,7 +19,7 @@
   I could enhance it by using an external menu, and not using the IDE or a console to run the code.
   This menu would make the program more user friendly and add more ease of use.
 
-## Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?\
+## Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 
   The most challenging code to write was m all of the different calculations. If they were wrong by any amount then the program would be pretty much useless.
 
